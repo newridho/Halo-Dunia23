@@ -1,0 +1,7 @@
+class Program
+    def main
+        do
+            print 'Hello, World!'
+        end
+    end
+end
