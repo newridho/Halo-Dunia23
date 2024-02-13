@@ -1,12 +1,12 @@
-# Halo-Dunia `HacktoberFest 2022` Repositories ✨
+# Halo-Dunia `HacktoberFest 2023` Repositories ✨
 
-![HacktoberFest](https://github.com/newridho/Halo-Dunia22/raw/main/.github/logo_hd.png)
+![HacktoberFest](https://github.com/newridho/Halo-Dunia23/raw/main/.github/logo_hd.png)
 
 ## This Project Is Perfect For Your Pull Request
 
-🗣 **Hacktoberfest 2022 encourages participation in the open-source community, which grows bigger every year.**
+🗣 **Hacktoberfest 2023 encourages participation in the open-source community, which grows bigger every year.**
 
-📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2022 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
+📢 **Register [here](https://hacktoberfest2023.digitalocean.com) for hacktoberfest2023 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
 ## Contributing
 
@@ -28,8 +28,8 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/newridho" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/newridho/Halo-Dunia22/pulls"><img src="https://img.shields.io/github/issues-pr/ossamamehmood/hacktoberfest2023" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/newridho/Halo-Dunia22/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/newridho/Halo-Dunia22?color=2b9348"></a>
+<a href="https://github.com/newridho/Halo-Dunia23/pulls"><img src="https://img.shields.io/github/issues-pr/newridho/Halo-Dunia23" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/newridho/Halo-Dunia23/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/newridho/Halo-Dunia23?color=2b9348"></a>
 
 </div>
 
