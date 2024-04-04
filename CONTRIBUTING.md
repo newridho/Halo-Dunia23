@@ -11,7 +11,7 @@
 <br>
 
 ## FAQs
-If you have any questions, please check our [FAQs](faqs.md) for answers.
+If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 ## Getting Started ✨:
 
